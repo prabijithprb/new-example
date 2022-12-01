@@ -1,0 +1,139 @@
+h1 {
+    text-align: center;
+    color: white;
+}
+
+body {
+    background-color: black;
+}
+
+div {
+    height: 152px;
+    width: 118px;
+}
+
+#a1 {
+    background-color: aqua;
+    margin-left: 433px;
+    margin-top: 70px;
+}
+
+#a2 {
+    background-color: bisque;
+    margin-left: 564px;
+    margin-top: -152px;
+}
+
+#a3 {
+    background-color: blueviolet;
+    margin-left: 695px;
+    margin-top: -152px;
+}
+
+#a4 {
+    background-color: blanchedalmond;
+    margin-left: 827px;
+    margin-top: -152px;
+}
+
+#a5 {
+    background-color: rgb(16, 123, 123);
+    margin-left: 958px;
+    margin-top: -152px;
+}
+
+#b1 {
+    background-color: red;
+    margin-left: 301px;
+    margin-top: 53px;
+}
+
+#b2 {
+    background-color: rgb(28, 24, 87);
+    margin-left: 433px;
+    margin-top: -152px;
+}
+
+#b3 {
+    background-color: rgb(203, 145, 31);
+    margin-left: 564px;
+    margin-top: -152px;
+}
+
+#b4 {
+    background-color: chocolate;
+    margin-left: 695px;
+    margin-top: -152px;
+}
+
+#b5 {
+    background-color: yellow;
+    margin-left: 826px;
+    margin-top: -152px;
+}
+
+#b6 {
+    background-color: whitesmoke;
+    margin-left: 957px;
+    margin-top: -152px;
+}
+
+#b7 {
+    background-color: tomato;
+    margin-left: 1088px;
+    margin-top: -152px;
+}
+
+#c1 {
+    background-color: teal;
+    margin-left: 169px;
+    margin-top: 53px
+}
+
+#c2 {
+    background-color: springgreen;
+    margin-left: 301px;
+    margin-top: -152px;
+}
+
+#c3 {
+    background-color: slateblue;
+    margin-left: 433px;
+    margin-top: -152px;
+}
+
+#c4 {
+    background-color: deeppink;
+    margin-left: 565px;
+    margin-top: -152px;
+}
+
+#c5 {
+    background-color: gold;
+    margin-left: 697px;
+    margin-top: -152px;
+}
+
+#c6 {
+    background-color: darkgreen;
+    margin-left: 829px;
+    margin-top: -152px;
+}
+
+#c7 {
+    background-color: gray;
+    margin-left: 961px;
+    margin-top: -152px;
+}
+
+#c8 {
+    background-color: greenyellow;
+    margin-left: 1093px;
+    margin-top: -152px;
+}
+
+#c9 {
+    background-color: dodgerblue;
+    margin-left: 1225px;
+    margin-top: -152px;
+}
